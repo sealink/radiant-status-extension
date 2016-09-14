@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name          = "radiant-status-extension"
-  spec.version       = '0.0.1'
+  spec.version       = '0.1.0'
   spec.authors       = ["Michael Noack"]
   spec.email         = ["support@travellink.com.au"]
   spec.description   = %q{Integrate status for elastic beanstalk}
